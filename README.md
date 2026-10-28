@@ -1,7 +1,7 @@
 # Hi, I’m Austin “Toppa” 👋
 
 💡 Data Analyst focused on **SQL, pragmatic Python, and decision-first dashboards**.  
-📊 Passionate about turning messy data into clear insights recruiters & managers can use.  
+  
 
 ---
 
